@@ -20,26 +20,3 @@ métodos GetAno() e SetAno(int ano) para acessar e modificar o ano do carro.
 5. Crie uma classe Empregado com os atributos privados primeiroNome (string) e ultimoNome
 (string). Implemente os métodos GetNomeCompleto() e SetNomeCompleto(string
 primeiroNome, string ultimoNome) para acessar e modificar o nome completo do funcionário.
-
-Propriedades (Get e Set)
-6. Crie uma classe Temperatura com um atributo privado celsius (double). Implemente uma
-propriedade Celsius usando get e set para acessar e modificar a temperatura em graus Celsius.
-Adicione um método ConverteParaFahrenheit() que retorna a temperatura em Fahrenheit.
-7. Crie uma classe Pessoa com um atributo privado anoAniversario (int). Implemente uma
-propriedade Idade usando get para calcular e retornar a idade da pessoa com base no ano de
-nascimento.
-8. Expanda o exemplo da classe Produto do primeiro conjunto de exercícios, mas desta vez,
-implemente a propriedade Nome usando get e set para acessar e modificar o nome do
-produto.
-9. Crie uma classe Retangulo com atributos privados tamanho (double) e altura (double).
-Implemente propriedades Tamanho e Altura usando get e set para acessar e modificar a
-largura e altura do retângulo.
-10. Expanda o exemplo da classe ContaBancaria do primeiro conjunto de exercícios, mas desta vez,
-implemente propriedades Saldo e NumeroConta usando get e set para acessar e modificar o
-saldo da conta e o número da conta.
-11. Expanda o exemplo da classe ContaBancaria e implementa a propriedade SaldoPositivo usando
-get e set. A propriedade SaldoPositivo só permite definir um valor se o saldo for maior ou igual
-a zero. Caso contrário, ela deve exibir uma mensagem.
-12. Crie uma classe SensorTemperatura que simula a leitura de temperatura. Implemente uma
-propriedade Temperatura usando get e set. A propriedade Temperature deve ajustar
-automaticamente a temperatura medida se estiver fora de um intervalo especificado. 
